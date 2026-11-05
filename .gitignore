@@ -1,0 +1,27 @@
+# Java compiled classes
+*.class
+*.jar
+*.war
+*.ear
+
+# Runtime IPC files
+bridge_request.txt
+bridge_response.txt
+
+# External references
+StackRabbit-master/
+
+# IDE / Editor
+.idea/
+*.iml
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
+Thumbs.db
+
